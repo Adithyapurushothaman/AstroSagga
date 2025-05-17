@@ -1,0 +1,2 @@
+C:/Users/adithyapurushothaman/AndroidStudioProjects/AstroSagga/android/app/.cxx/Debug/404v1j5o/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/adithyapurushothaman/AndroidStudioProjects/AstroSagga/android/app/.cxx/Debug/404v1j5o/armeabi-v7a/CMakeFiles/rebuild_cache.dir
